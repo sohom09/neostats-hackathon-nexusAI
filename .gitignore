@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables (NEVER commit API keys!)
+.env
+.env.local
+.env.production
+
+# FAISS index (auto-generated, can be large)
+faiss_index/
+
+# SQLite database (contains user conversations)
+*.db
+neostats_memory.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temp files
+*.tmp
+temp_*
+/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# HuggingFace cache (large, user-specific)
+# ~/.cache/huggingface/  (don't add this, it's outside repo)
+
+# Logs
+*.log

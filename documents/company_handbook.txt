@@ -1,0 +1,165 @@
+NEOSTATS CORPORATION — EMPLOYEE HANDBOOK
+=========================================
+Version 3.2 | Effective Date: January 1, 2026
+=========================================
+
+SECTION 1: ABOUT NEOSTATS CORPORATION
+--------------------------------------
+NEOSTATS Corporation is a leading data analytics and AI solutions company headquartered
+in Bangalore, India. Founded in 2018, we specialize in building intelligent data platforms
+for enterprises across finance, healthcare, retail, and education sectors.
+
+Our Mission: "Turning raw data into intelligent decisions."
+Our Vision: "To be the most trusted AI-powered analytics partner globally by 2030."
+
+SECTION 2: LEAVE POLICY
+------------------------
+2.1 Annual Leave
+Employees are entitled to 18 days of paid annual leave per calendar year. Annual leave
+accrues at the rate of 1.5 days per month. Unused leave can be carried forward up to
+a maximum of 10 days to the next calendar year. Any excess leave beyond 10 days will
+lapse at the end of December.
+
+2.2 Sick Leave
+Employees are entitled to 12 days of paid sick leave per year. A medical certificate
+is required for sick leave exceeding 3 consecutive days. Sick leave cannot be carried
+forward to the next year.
+
+2.3 Casual Leave
+Employees are entitled to 6 days of casual leave per year. Casual leave cannot be
+taken for more than 3 consecutive days. It cannot be carried forward or encashed.
+
+2.4 Maternity and Paternity Leave
+- Maternity Leave: 26 weeks of fully paid maternity leave as per the Maternity Benefit
+  Act, 2017. Applicable after 80 days of service.
+- Paternity Leave: 10 days of paid paternity leave, to be availed within 3 months of
+  the child's birth.
+
+2.5 Leave Application Process
+All leave requests must be submitted through the NEOSTATS HR portal (hr.neostats.com)
+at least 48 hours in advance (except emergency sick leave). Manager approval is required
+for all leave types. Leave during project critical phases may be restricted.
+
+SECTION 3: ONBOARDING PROCESS
+------------------------------
+3.1 Pre-Joining
+New employees receive a welcome email 1 week before joining. The email contains:
+- Joining instructions and reporting location
+- Documents required on Day 1
+- IT equipment request form
+- Buddy assignment (senior colleague assigned to help you settle in)
+
+3.2 Day 1 Orientation
+- 9:00 AM: Report to HR at the Bangalore office (3rd floor, Tech Tower, Koramangala)
+- 9:30 AM: Welcome session with HR team
+- 10:00 AM: IT setup — laptop, corporate email (name@neostats.com), access cards
+- 11:00 AM: Office tour and team introductions
+- 12:30 PM: Lunch with your buddy and team
+- 2:00 PM: Policy and compliance briefing
+- 4:00 PM: Meet your manager and get your 30-60-90 day plan
+
+3.3 First 30 Days (Learning Phase)
+- Complete all mandatory e-learning courses on the NEOSTATS Learning Platform
+- Shadow senior team members on active projects
+- Set up your development environment with the Engineering Starter Kit
+- Attend weekly 1-on-1 with your manager
+
+3.4 First 60 Days (Integration Phase)
+- Take ownership of at least one module or task
+- Complete the NEOSTATS Product Certification (internal)
+- Participate in sprint planning and team stand-ups
+
+3.5 First 90 Days (Contribution Phase)
+- Deliver your first project milestone
+- Complete your probation review with HR and manager
+- Receive access to advanced tools and systems
+
+SECTION 4: CODE OF CONDUCT
+---------------------------
+4.1 Workplace Respect
+NEOSTATS is committed to maintaining a respectful, inclusive, and harassment-free
+workplace. Discrimination based on gender, race, religion, caste, or disability is
+strictly prohibited and subject to immediate disciplinary action.
+
+4.2 Data Confidentiality
+Employees must not share client data, product roadmaps, or proprietary algorithms
+with external parties. Violations are subject to legal action under NDA agreements
+signed at joining.
+
+4.3 Social Media Policy
+Employees may not post confidential business information on social media. Personal
+opinions shared online must clearly state they are personal and not those of NEOSTATS.
+
+SECTION 5: COMPENSATION AND BENEFITS
+--------------------------------------
+5.1 Salary Structure
+- Basic Salary: 40% of CTC
+- HRA (House Rent Allowance): 20% of Basic Salary
+- Special Allowance: 30% of CTC
+- PF Contribution: 12% of Basic (both employee and employer)
+
+5.2 Performance Bonus
+- Annual appraisal cycle runs January–December
+- Bonus payout in March based on individual and company performance
+- Rating scale: Exceeds Expectations (15-20%), Meets Expectations (8-12%), Below (0-5%)
+
+5.3 Additional Benefits
+- Health Insurance: Coverage of ₹5,00,000 for employee + 2 dependents (family floater)
+- Term Life Insurance: 3x CTC
+- Gratuity: As per Payment of Gratuity Act (after 5 years of service)
+- Flexible Work-From-Home: Up to 2 days per week (subject to manager approval)
+- Internet Reimbursement: ₹1,000/month for WFH days
+- Learning Budget: ₹25,000/year for external courses, certifications, conferences
+
+SECTION 6: WORK HOURS AND REMOTE WORK
+---------------------------------------
+6.1 Standard Work Hours
+Official working hours are 9:00 AM to 6:00 PM IST, Monday to Friday.
+Flexible start times between 8:00 AM and 10:30 AM are permitted with manager approval.
+Core hours where all employees must be available: 10:00 AM – 4:00 PM IST.
+
+6.2 Remote Work Policy
+Employees may work from home up to 2 days per week. Remote work requires:
+- Stable internet connection (minimum 20 Mbps)
+- Availability on Slack and video calls during core hours
+- Prior intimation to manager by 9:00 AM on WFH days
+Special WFH permissions may be granted for health reasons with a medical certificate.
+
+SECTION 7: PERFORMANCE MANAGEMENT
+------------------------------------
+7.1 Goal Setting
+At the beginning of each year, employees set SMART goals in alignment with department
+OKRs. Goals are documented in the NEOSTATS Performance Portal.
+
+7.2 Mid-Year Review
+A mid-year check-in is conducted in June–July to assess progress and adjust goals.
+
+7.3 Annual Appraisal
+- Conducted in January for the previous calendar year
+- Self-assessment, manager assessment, and optional 360-degree feedback
+- Results shared by end of February; salary revisions effective April 1
+
+SECTION 8: GRIEVANCE REDRESSAL
+--------------------------------
+If an employee has a workplace grievance, they should:
+1. First discuss informally with their immediate manager.
+2. If unresolved, escalate to the HR Business Partner (HRBP).
+3. File a formal complaint at grievance@neostats.com.
+4. The Internal Complaints Committee (ICC) will resolve within 30 working days.
+All grievances are handled with strict confidentiality.
+
+SECTION 9: SEPARATION POLICY
+------------------------------
+9.1 Resignation
+Employees must serve a notice period of:
+- Junior (0-2 years): 30 days
+- Mid-level (2-5 years): 45 days
+- Senior (5+ years): 60 days
+
+9.2 Full & Final Settlement
+Full and final settlement is processed within 45 days of the last working day.
+Components: pending salary, leave encashment, gratuity (if eligible), PF withdrawal.
+
+=========================================
+For queries: hr@neostats.com | HR Helpline: +91-80-4567-8900
+=========================================

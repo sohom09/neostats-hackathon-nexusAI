@@ -1,0 +1,136 @@
+Healthcare Knowledge Guide
+Diseases, Symptoms, Causes & Treatments — 22 Essential Q&As
+
+This document provides a comprehensive overview of common diseases, their symptoms, causes, and treatment options. It is intended for general educational purposes and does not replace professional medical advice. Always consult a qualified healthcare provider for diagnosis and treatment.
+1. What is Diabetes Mellitus? What are its types, symptoms, and treatment?
+Diabetes Mellitus is a chronic metabolic disease characterized by elevated blood glucose levels due to insufficient insulin production or improper use of insulin by the body.
+Types: Type 1 (autoimmune, insulin-dependent), Type 2 (lifestyle-related, insulin resistance), Gestational Diabetes (during pregnancy).
+Symptoms: Frequent urination, excessive thirst, unexplained weight loss, fatigue, blurred vision, slow-healing wounds, and numbness in hands/feet.
+Treatment: Insulin therapy (Type 1), oral medications like Metformin (Type 2), dietary changes (low sugar/carb diet), regular physical activity, blood glucose monitoring, and regular medical checkups.
+
+2. What is Hypertension (High Blood Pressure)? What causes it and how is it treated?
+Hypertension is a condition where the force of blood against artery walls is consistently too high (≥130/80 mmHg), increasing risks of heart disease and stroke.
+Causes: Obesity, high salt intake, smoking, alcohol, stress, sedentary lifestyle, genetics, kidney disease.
+Symptoms: Often called the 'silent killer' — usually no symptoms, but severe cases may cause headaches, dizziness, nosebleeds, or shortness of breath.
+Treatment: Lifestyle changes (DASH diet, exercise, reduced salt), antihypertensive medications (ACE inhibitors, beta-blockers, diuretics), stress management, and routine monitoring.
+
+3. What is COVID-19? What are its symptoms, prevention, and treatment?
+COVID-19 is a highly contagious respiratory illness caused by the SARS-CoV-2 coronavirus, declared a pandemic in March 2020.
+Symptoms: Fever, dry cough, fatigue, loss of taste/smell, sore throat, difficulty breathing, body aches, and in severe cases, pneumonia.
+Prevention: Vaccination, wearing masks, hand hygiene, social distancing, and avoiding crowded places.
+Treatment: Supportive care (rest, fluids, fever reducers), antivirals like Paxlovid for high-risk patients, oxygen therapy for severe cases, and ICU care if needed.
+
+4. What is Asthma? What are its triggers, symptoms, and management?
+Asthma is a chronic inflammatory condition of the airways causing narrowing and swelling, making breathing difficult.
+Triggers: Allergens (dust, pollen, pet dander), air pollution, smoke, cold air, exercise, respiratory infections, and stress.
+Symptoms: Wheezing, shortness of breath, chest tightness, and persistent coughing (especially at night).
+Management: Inhalers (bronchodilators like Salbutamol for quick relief, corticosteroids for long-term control), avoiding triggers, allergy testing, and asthma action plan.
+
+5. What is Cancer? What are the common types, warning signs, and treatment options?
+Cancer is a group of diseases characterized by uncontrolled cell growth and spread to other parts of the body, forming tumors or invading the blood.
+Common Types: Breast, lung, colorectal, prostate, cervical, skin (melanoma), and blood cancers (leukemia, lymphoma).
+Warning Signs (CAUTION): Change in bowel/bladder habits, A sore that doesn't heal, Unusual bleeding, Thickening or lump, Indigestion or difficulty swallowing, Obvious change in warts/moles, Nagging cough or hoarseness.
+Treatment: Surgery, chemotherapy, radiation therapy, immunotherapy, targeted therapy, hormone therapy, and bone marrow transplant depending on type and stage.
+
+6. What is Tuberculosis (TB)? How does it spread, and how is it treated?
+Tuberculosis is a contagious bacterial infection caused by Mycobacterium tuberculosis, primarily affecting the lungs.
+Spread: Airborne transmission through coughing, sneezing, or talking by an infected person.
+Symptoms: Persistent cough (>3 weeks), blood in sputum, night sweats, fever, unexplained weight loss, and fatigue.
+Treatment: 6-month course of antibiotics (RIPE therapy: Rifampicin, Isoniazid, Pyrazinamide, Ethambutol), BCG vaccination for prevention, and isolation during the infectious phase.
+
+7. What is Heart Disease? What are its types, risk factors, and treatments?
+Heart disease refers to a range of conditions affecting the heart's structure and function, including coronary artery disease, heart failure, and arrhythmias.
+Risk Factors: High blood pressure, high cholesterol, diabetes, smoking, obesity, family history, sedentary lifestyle, and stress.
+Symptoms: Chest pain (angina), shortness of breath, palpitations, fatigue, swollen legs, and dizziness.
+Treatment: Medications (statins, beta-blockers, blood thinners), lifestyle changes, angioplasty, coronary artery bypass surgery, pacemakers, or heart transplant in severe cases.
+
+8. What is Dengue Fever? What are its symptoms and how is it managed?
+Dengue fever is a mosquito-borne viral infection caused by the dengue virus (DENV), transmitted by the Aedes aegypti mosquito.
+Symptoms: Sudden high fever, severe headache, pain behind the eyes, muscle and joint pain ('breakbone fever'), skin rash, nausea, and mild bleeding (gums/nose).
+Severe Dengue (DHF): Plasma leakage, severe bleeding, and organ impairment — can be fatal if untreated.
+Management: No specific antiviral drug; supportive care includes rest, oral rehydration, paracetamol (avoid aspirin/ibuprofen), hospitalization if platelet count drops severely, and IV fluids.
+
+9. What is Malaria? How is it transmitted, and what is the treatment?
+Malaria is a life-threatening disease caused by Plasmodium parasites transmitted through the bites of infected female Anopheles mosquitoes.
+Transmission: Bite of infected Anopheles mosquito; rarely through blood transfusion or mother-to-child.
+Symptoms: Cyclic fever and chills, headache, sweating, nausea/vomiting, muscle pain, and fatigue. Severe malaria can cause organ failure.
+Treatment: Artemisinin-based combination therapies (ACTs) such as Artemether-Lumefantrine; Chloroquine for non-resistant strains; preventive antimalarials for travelers; insecticide-treated bed nets.
+
+10. What is Alzheimer's Disease? What are its stages and care options?
+Alzheimer's disease is a progressive neurodegenerative disorder that destroys memory and other mental functions, and is the most common cause of dementia.
+Stages: Early (mild memory lapses), Middle (increased confusion, difficulty with daily tasks), Late (loss of speech, mobility, and complete dependence on care).
+Symptoms: Memory loss, confusion, disorientation, mood changes, difficulty speaking/writing, and inability to recognize family members.
+Care & Treatment: No cure exists; medications like Donepezil or Memantine slow progression; cognitive therapies, caregiver support, safe living environment, and palliative care in advanced stages.
+
+11. What is Obesity? What are its health risks and treatment approaches?
+Obesity is defined as a BMI ≥30 kg/m², resulting from an imbalance between calorie intake and expenditure, leading to excess body fat accumulation.
+Health Risks: Type 2 diabetes, hypertension, heart disease, stroke, sleep apnea, joint pain, fatty liver disease, and certain cancers.
+Causes: Unhealthy diet, physical inactivity, genetics, hormonal disorders (hypothyroidism), medications, and psychological factors.
+Treatment: Calorie-controlled diet, regular exercise (150+ min/week), behavioral therapy, weight loss medications (Orlistat), and bariatric surgery for severe cases.
+
+12. What is Anemia? What are its types, causes, symptoms, and treatments?
+Anemia is a condition where the blood lacks enough healthy red blood cells or hemoglobin to carry adequate oxygen to tissues.
+Types & Causes: Iron-deficiency anemia (most common), Vitamin B12/folate deficiency, Sickle cell anemia (genetic), Aplastic anemia, and hemolytic anemia.
+Symptoms: Fatigue, weakness, pale/yellowish skin, irregular heartbeat, shortness of breath, dizziness, cold hands/feet, and chest pain.
+Treatment: Iron supplements or IV iron, B12 injections, folic acid supplements, blood transfusions, erythropoiesis-stimulating agents, or bone marrow transplant for severe cases.
+
+13. What is Depression? How is it diagnosed and treated?
+Depression (Major Depressive Disorder) is a serious mental health condition characterized by persistent sadness, hopelessness, and loss of interest that interferes with daily life.
+Symptoms: Persistent sadness, loss of interest, fatigue, changes in appetite/sleep, difficulty concentrating, feelings of worthlessness, and suicidal thoughts.
+Diagnosis: Clinical evaluation using DSM-5 criteria — symptoms lasting ≥2 weeks; blood tests to rule out thyroid or vitamin deficiencies.
+Treatment: Antidepressants (SSRIs like Fluoxetine, SNRIs), psychotherapy (Cognitive Behavioral Therapy), lifestyle changes (exercise, sleep hygiene), support groups, and electroconvulsive therapy (ECT) for severe cases.
+
+14. What is Pneumonia? What causes it and how is it treated?
+Pneumonia is an infection that inflames the air sacs (alveoli) in one or both lungs, filling them with fluid or pus.
+Causes: Bacteria (Streptococcus pneumoniae — most common), viruses (influenza, COVID-19), fungi, and aspiration of food/liquids.
+Symptoms: Chest pain when breathing/coughing, confusion (in elderly), cough with phlegm, fever, chills, shortness of breath, fatigue, and nausea.
+Treatment: Bacterial: Antibiotics (Amoxicillin, Azithromycin); Viral: Antivirals + supportive care; Hospitalization for severe cases with IV antibiotics, oxygen, and fluids; Pneumococcal and flu vaccines for prevention.
+
+15. What is Thyroid Disease? What are its types, symptoms, and treatment?
+Thyroid disease refers to conditions where the thyroid gland produces too much (hyperthyroidism) or too little (hypothyroidism) thyroid hormone.
+Hypothyroidism Symptoms: Fatigue, weight gain, cold intolerance, dry skin, constipation, depression, and slow heart rate.
+Hyperthyroidism Symptoms: Weight loss, rapid heartbeat, anxiety, sweating, tremors, heat intolerance, and bulging eyes (Graves' disease).
+Treatment: Hypothyroidism: Daily Levothyroxine (synthetic T4); Hyperthyroidism: Anti-thyroid medications (Methimazole), radioactive iodine therapy, or thyroid surgery.
+
+16. What is Stroke? What are its warning signs (FAST), and how is it treated?
+A stroke occurs when blood supply to part of the brain is cut off (ischemic) or a blood vessel bursts (hemorrhagic), causing brain cells to die within minutes.
+FAST Warning Signs: Face drooping, Arm weakness, Speech difficulty, Time to call emergency. Also: sudden vision loss, severe headache, or loss of balance.
+Risk Factors: Hypertension, diabetes, smoking, atrial fibrillation, high cholesterol, obesity, and prior stroke or TIA.
+Treatment: Ischemic stroke: tPA (clot-busting drug) within 4.5 hours, mechanical thrombectomy; Hemorrhagic stroke: surgery; Rehabilitation: physiotherapy, speech therapy, occupational therapy.
+
+17. What is Chronic Kidney Disease (CKD)? What are its stages and management?
+Chronic Kidney Disease is the gradual loss of kidney function over months or years, reducing the kidneys' ability to filter waste from blood.
+Causes: Diabetes (leading cause), hypertension, glomerulonephritis, polycystic kidney disease, and repeated kidney infections.
+Symptoms: Fatigue, swollen ankles/feet, shortness of breath, nausea, decreased urine output, high blood pressure, and itching.
+Management: Control blood sugar and BP, low-protein/low-potassium diet, avoid NSAIDs, medications (ACE inhibitors), dialysis (hemodialysis/peritoneal), and kidney transplant in end-stage CKD.
+
+18. What is HIV/AIDS? How is HIV transmitted, and what treatments are available?
+HIV (Human Immunodeficiency Virus) attacks the immune system's CD4 cells. AIDS (Acquired Immunodeficiency Syndrome) is the final stage of HIV when the immune system is severely damaged.
+Transmission: Unprotected sexual contact, sharing needles, blood transfusions with infected blood, and mother-to-child during birth or breastfeeding.
+Symptoms: Acute phase: flu-like illness; Chronic phase: few symptoms; AIDS: severe infections (opportunistic), rapid weight loss, and cancers.
+Treatment: Antiretroviral Therapy (ART) — not a cure, but suppresses virus to undetectable levels; prevents AIDS progression; PrEP (pre-exposure prophylaxis) for high-risk individuals; condom use and clean needles for prevention.
+
+19. What is Arthritis? What are its types, symptoms, and treatments?
+Arthritis refers to inflammation of one or more joints, causing pain and stiffness that typically worsen with age.
+Types: Osteoarthritis (wear and tear, most common), Rheumatoid Arthritis (autoimmune), Gout (uric acid crystals), Psoriatic Arthritis, and Ankylosing Spondylitis.
+Symptoms: Joint pain, stiffness (especially morning stiffness), swelling, redness, decreased range of motion, and fatigue (in autoimmune types).
+Treatment: NSAIDs (Ibuprofen, Naproxen), DMARDs for rheumatoid arthritis (Methotrexate), biologics, physiotherapy, joint injections (steroids/hyaluronic acid), weight loss, and joint replacement surgery.
+
+20. What is Cholera? How does it spread, and what is the treatment?
+Cholera is an acute diarrheal disease caused by Vibrio cholerae bacteria, spread primarily through contaminated water and food.
+Spread: Contaminated drinking water, raw or undercooked seafood, unwashed fruits/vegetables, and poor sanitation.
+Symptoms: Sudden onset of profuse watery diarrhea ('rice-water stools'), vomiting, muscle cramps, rapid dehydration, and if untreated — death within hours.
+Treatment: Oral Rehydration Salts (ORS) — primary treatment; IV fluids for severe cases; Antibiotics (Doxycycline, Azithromycin) reduce duration; Cholera vaccines for prevention; Safe water and sanitation practices.
+
+21. What is Epilepsy? What causes seizures and how is it managed?
+Epilepsy is a neurological disorder characterized by recurrent, unprovoked seizures due to abnormal electrical activity in the brain.
+Causes: Genetic factors, brain injury, stroke, brain tumors, meningitis, prenatal brain damage, and unknown causes (idiopathic).
+Types of Seizures: Focal (partial) seizures affecting one brain area; Generalized seizures (tonic-clonic/grand mal, absence, myoclonic) affecting the whole brain.
+Management: Anti-epileptic drugs (AEDs) like Valproate, Levetiracetam, Carbamazepine; ketogenic diet; vagus nerve stimulation; epilepsy surgery; seizure first aid (protect from injury, turn on side, don't restrain).
+
+22. What is Hepatitis? What are the different types and their treatments?
+Hepatitis is inflammation of the liver, most commonly caused by viral infections (Hepatitis A, B, C, D, E), but also by alcohol, drugs, or autoimmune conditions.
+Types & Transmission: Hep A & E: Fecal-oral (contaminated food/water); Hep B, C, D: Blood, sexual contact, mother-to-child.
+Symptoms: Jaundice (yellow skin/eyes), dark urine, fatigue, abdominal pain, nausea, and loss of appetite. Chronic forms may be asymptomatic for years.
+Treatment: Hep A/E: Supportive care, no specific drug; Hep B: Antivirals (Tenofovir, Entecavir), vaccine available; Hep C: Direct-acting antivirals (Sofosbuvir) — 95%+ cure rate; Hep B+D: Vaccination for Hep B prevents Hep D.
+
