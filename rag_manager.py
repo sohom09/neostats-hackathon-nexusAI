@@ -1,10 +1,10 @@
 import os
 from typing import List
-from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader, PyPDFLoader
 from langchain_core.documents import Document
+from langchain_huggingface import HuggingFaceEmbeddings
 
 FAISS_INDEX_PATH = "faiss_index"
 EMBEDDING_MODEL  = "BAAI/bge-small-en-v1.5"
